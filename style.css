@@ -33,5 +33,13 @@ section{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 3000px ;
-    
+}
+.recipe-middle{
+    text-align: center;
+    margin-left: 5%;
+}
+.recipe-middle p{
+    text-align: center;
+   margin-left: 10%;
+   margin-right: 5%;
 }
